@@ -1,0 +1,1 @@
+# nextjs-shared-hosting-deploy-guide
